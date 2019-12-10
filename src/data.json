@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "title": "Phone",
+      "price": 300,
+      "id": 1575954219919
+    },
+    {
+      "title": "Laptop",
+      "price": 1250,
+      "id": 157595
+    },
+    {
+      "title": "Headphone",
+      "price": 175,
+      "id": 15759542
+    },
+    {
+      "title": "Television",
+      "price": 456,
+      "id": 1572121
+    },
+    {
+      "title": "Earphone",
+      "price": 125,
+      "id": 1572341234
+    },
+    {
+      "title": "Projector",
+      "price": 567,
+      "id": 157123412345
+    }
+  ]
+}
