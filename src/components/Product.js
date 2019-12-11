@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Product(props) {
   return (
-    <div>
+    <div className="products">
       <li className="flex">
-        <h3>{props.title}</h3>
+        <h3 className="item">{props.title}</h3>
         <span className="price">${props.price}</span>
         <button
           className="btn"

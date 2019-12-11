@@ -47,7 +47,10 @@ class App extends React.Component {
             <Cartpage items={this.state.cart} />
 
             <div>
-              <button onClick={() => this.handlePage("checkout")}>
+              <button
+                className="checkout-btn"
+                onClick={() => this.handlePage("checkout")}
+              >
                 checkout
               </button>
             </div>
